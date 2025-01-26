@@ -5,6 +5,7 @@
 #include <stdexcept>
 #include <sstream>
 #include <random>
+#include <functional>
 
 const std::vector<std::string> DEFAULT_WORDLIST = {
     "ack", "alabama", "alanine", "alaska", "alpha", "angel", "apart", "april",
